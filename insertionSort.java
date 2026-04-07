@@ -10,7 +10,6 @@ public class insertionSort {
         list.add(1);
         list.add(3);
         System.out.println(insertionSortList(list));
-
     }
 
     public static LinkedList<Integer> insertionSortList(LinkedList<Integer> head) {

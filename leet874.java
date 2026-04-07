@@ -1,7 +1,6 @@
 package leetcode;
 
 import java.util.*;
-import java.util.HashMap;
 
 class Pair {
     int x;
@@ -14,8 +13,12 @@ class Pair {
 
     @Override
     public boolean equals(Object o) {
-        if (this == o) return true;
-        if (!(o instanceof Pair)) return false;
+        if (this == o) {
+            return true;
+        }
+        if (!(o instanceof Pair)) {
+            return false;
+        }
         Pair p = (Pair) o;
         return x == p.x && y == p.y;
     }
