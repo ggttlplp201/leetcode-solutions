@@ -151,6 +151,7 @@ Java solutions organized by topic. Each subfolder has its own package (`leetcode
 | 696 | Count Binary Substrings | [countBinarySubstrings.java](strings/countBinarySubstrings.java) |
 | 848 | Shifting Letters | [shiftLetter.java](strings/shiftLetter.java) |
 | 2452 | Words Within Two Edits of Dictionary | [wordsWithinTwoEdits.java](strings/wordsWithinTwoEdits.java) |
+| 3612 | Process String with Special Operations I | [processStringWithSpecialOperationsI.java](strings/processStringWithSpecialOperationsI.java) |
 | 3713 | Longest Balanced Subsequence | [longestBalanced.java](strings/longestBalanced.java) |
 
 ## Two Pointers
